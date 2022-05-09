@@ -333,7 +333,7 @@ button:focus {
   @media (max-width: 680px) {
     .banner-content {
       padding: 48px 20px;
-      background: #fff;
+      background: #000;
       margin: 0 15px; } }
   .banner-content .primary-btn {
     background: #e45447;
@@ -344,7 +344,7 @@ button:focus {
       border-color: #e45447;
       color: #000; }
   .banner-content h1 {
-    color: #FFF;
+    color: #000;
     font-size: 60px;
     font-weight: 700;
     margin-bottom: 20px; }
@@ -355,7 +355,7 @@ button:focus {
     font-size: 30px;
     font-family: "Helvetica", sans-serif;
     font-weight: 400;
-    color: #FFF;
+    color: #000;
     margin-bottom: 30px; }
     @media (max-width: 991px) {
       .banner-content h3 {
